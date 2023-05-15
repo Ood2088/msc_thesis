@@ -5,7 +5,7 @@ All relevant files of my MSc dissertation
 Final pdf document
 
 ## #20220704_msc_thesis.R 
-R script for all statistical/psychometric analyses
+R code for all statistical/psychometric analyses
 
 ## #20220701_colloquium
 Beamer presentation at research group colloquium
